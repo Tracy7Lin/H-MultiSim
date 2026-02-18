@@ -1,6 +1,5 @@
 __MACOSX
 .vscode
-dataset
 __pycache__
 .DS_Store
 results
